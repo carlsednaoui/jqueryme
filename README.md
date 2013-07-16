@@ -4,6 +4,9 @@ Add jQuery to any given page.
 ## How do I Use This?
 Easy! [Go here](http://carlsednaoui.github.io/jqueryme/jqueryme.html) and drag jQueryMe to your bookmark bar.
 
+## Project page
+For the fancy GitHub page, [go here](http://carlsednaoui.github.io/jqueryme/).
+
 ## Why Did You Make This?
 - jQuery rocks
 - I'm learning to build Bookmarklets
