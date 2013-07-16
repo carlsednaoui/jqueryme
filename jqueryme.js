@@ -11,7 +11,9 @@
         done = true;
       }
     };
-    console.log("you've been jqueried");
+    console.log("You've been jQueryfied!");
     document.getElementsByTagName('head')[0].appendChild(script);
+  } else {
+    console.log("You already have jQuery v %s... no need for this.", v);
   }
 })();
